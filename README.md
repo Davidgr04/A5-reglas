@@ -33,7 +33,7 @@ En estas instrucciones aprenderás a añadirle estilos a mi pagina.
 
 # APARTIR DE AQUI ES EL DINSEÑO RESPONSIVE
 
-Para empezar con esta parte copia y pega en el dss la siguiente linea:
+Para empezar con esta parte copia y pega en el css la siguiente linea:
 @media only screen and (max-width: 800px) {
      }
      Vale sigamos
